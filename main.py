@@ -1,3 +1,9 @@
+"""Write the robot pickup line to entry.txt in the output directory.
+
+The output directory is MAKEFUN_OUTPUT_DIR when set and non-empty,
+otherwise /output. Standard library only, no other side effects.
+"""
+
 import os
 
 TEXT = "It took me 0.2 seconds to notice you. I am stalling on purpose now.\n"

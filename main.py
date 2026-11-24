@@ -1,3 +1,4 @@
+# The entry text is checked against the competition's 200-character cap.
 """Write the robot pickup line to entry.txt in the output directory.
 
 The output directory is MAKEFUN_OUTPUT_DIR when set and non-empty,
